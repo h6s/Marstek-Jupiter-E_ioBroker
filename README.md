@@ -1,5 +1,4 @@
-# Marstek-Jupiter-E_ioBroker
-Marstek Jupiter E (C) per ESPHome über Modbus in ioBroker einbinden
+# Marstek Jupiter E(C) per ESPHome über Modbus in ioBroker einbinden
 
 
 Ich habe eine Konfiguration (.yaml - Datei) für ESPHome in Verbindung mit einem Marstek Jupiter E erstellt.
