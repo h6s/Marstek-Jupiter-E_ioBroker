@@ -188,7 +188,7 @@ sensor:
   modbus_controller_id: modbus_device
   name: "grid power"
   register_type: holding
-  address: 0x0000D
+  address: 0x000D
   unit_of_measurement: "W"
   value_type: U_WORD
 
