@@ -1,10 +1,10 @@
 # Marstek Jupiter E(C) per ESPHome über Modbus in ioBroker einbinden
 
 
-Ich habe eine Konfiguration (.yaml - Datei) für ESPHome in Verbindung mit einem Marstek Jupiter E erstellt.
+Ich habe eine Konfiguration (marstek-jupiter-e.yaml - Datei) für ESPHome in Verbindung mit einem Marstek Jupiter E erstellt.
 Da diese Konfiguration vielleicht dem Einen oder Anderen etwas Tiparbeit ersparen kann möchte ich sie hier veröffentlichen.
 
-
+#  
 # Folgende Voraussetzungen müssen erfüllt sein:
 
 1. Für den Marstek Jupiter ist ein Anschlusskabel für den RS485 Anschluss (Modbus) erforderlich (war bei mir im Lieferumfang erhalten)
